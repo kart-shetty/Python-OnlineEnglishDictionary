@@ -1,2 +1,2 @@
 # Python-Dictionary
-## Python Dictionar using Selenium, Chromedriver & tkinter
+## Python Dictionary using Selenium, Chromedriver & tkinter
