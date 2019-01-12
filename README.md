@@ -1,3 +1,3 @@
 # Python-OnlineEnglishDictionary
 ## Python Dictionary using Selenium, Chromedriver & tkinter
-![Screenshot](searchScreen.PNG)
+![Search Screen](searchScreen.PNG)   ![Result Screen](resultScreen.PNG)
